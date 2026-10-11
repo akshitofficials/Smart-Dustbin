@@ -4,7 +4,7 @@ An Arduino-based multifunctional **Smart Dustbin** designed to make waste manage
 
 The prototype combines **automatic lid opening, Bluetooth-controlled movement, gas/smoke detection, dual waste compartments, and a phone-controlled mopping mechanism** in a single mobile system.
 
-![Smart Dustbin](images/smart-dustbin-front-view.jpg)
+![Smart Dustbin](images/smart-dustbin-angle-view.jpg)
 
 ---
 
